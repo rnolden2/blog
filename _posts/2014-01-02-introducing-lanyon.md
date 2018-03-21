@@ -7,7 +7,8 @@ title: Sales | Engineering | Data Science
 <html>
 	<body>
 		<div style="width:850">
-			<p><img src="/blog/public/power-of-the-handshake-.jpg" width="250" height="150" align="left" /></p>			<hr />			<p><img src="/blog/public/electronics.jpg" width="250" height="150" align="center" /></p>	      <hr />			<p><img src="/blog/public/datascience1.jpg" width="250" height="150" align="right" /></p>
+			<p><img src="/blog/public/power-of-the-handshake-.jpg" width="250" height="150" align="left" /></p>			<hr />			<p><img src="/blog/public/electronics.jpg" width="250" height="150" align="center" /></p>	      			
+      <p><img src="/blog/public/datascience1.jpg" width="250" height="150" align="right" /></p> <hr />
 		</div>
 	</body>
 </html>
