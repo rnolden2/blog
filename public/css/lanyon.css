@@ -613,6 +613,6 @@ opacity:0;
 animation-name: cf4FadeInOut;
 animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
-animation-duration: 10s;
+animation-duration: 5s;
 animation-direction: alternate;
 }
