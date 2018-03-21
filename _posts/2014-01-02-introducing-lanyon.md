@@ -7,6 +7,18 @@ title: Sales | Engineering | Data Science
 <img align="center" width="100" height="100" src="/blog/public/electronics.jpg">
 <img align="right" width="100" height="100" src="/blog/public/datascience1.jpg">
 
+<html>
+	<head>
+		<title>Aligning Images Horizontally</title>
+	</head>
+	<body>
+		<div style="width:550">
+			<p><img src="/blog/public/power-of-the-handshake-.jpg" width="150" height="150" align="left" />Sales</p>			<hr />			<p><img src="/blog/public/electronics.jpg" width="150" height="150" align="center" />Engineering</p>	      <hr />			<p><img src="/blog/public/datascience1.jpg" width="150" height="150" align="right" />Engineering</p>
+		</div>
+	</body>
+</html>
+
+
 ### About Me
 
 Currently a professional sales engineer experienced in project management whose main focus is to ensure premier customer satisfaction. I service the aerospace industry, both commercial and defense and utilize Data Science to tackle industry related business problems. I'm a self-starter always eager to learn new skills. 
