@@ -3,9 +3,9 @@ layout: post
 title: Sales | Engineering | Data Science
 ---
 ![Sales](/blog/public/power-of-the-handshake-.jpg)![Eng](/blog/public/electronics.jpg)![DS](/blog/public/datascience1.jpg)
-[comment]: <>(<img align="left" width="100" height="100" src="/blog/public/power-of-the-handshake-.jpg">)
-[comment]: <>(<img align="center" width="100" height="100" src="/blog/public/electronics.jpg">)
-[comment]: <>(<img align="right" width="100" height="100" src="/blog/public/datascience1.jpg">)
+![comment]: <>(<img align="left" width="100" height="100" src="/blog/public/power-of-the-handshake-.jpg">)
+![comment]: <>(<img align="center" width="100" height="100" src="/blog/public/electronics.jpg">)
+![comment]: <>(<img align="right" width="100" height="100" src="/blog/public/datascience1.jpg">)
 
 <html>
 	<head>
@@ -13,7 +13,7 @@ title: Sales | Engineering | Data Science
 	</head>
 	<body>
 		<div style="width:850">
-			<p><img src="/blog/public/power-of-the-handshake-.jpg" width="250" height="150" align="left" />Sales</p>			<hr />			<p><img src="/blog/public/electronics.jpg" width="250" height="150" align="center" />Engineering</p>	      <hr />			<p><img src="/blog/public/datascience1.jpg" width="250" height="150" align="right" />Engineering</p>
+			<p><img src="/blog/public/power-of-the-handshake-.jpg" width="250" height="150" align="left" />Sales</p>			<hr />			<p><img src="/blog/public/electronics.jpg" width="250" height="150" align="center" />Engineering</p>	      <hr />			<p><img src="/blog/public/datascience1.jpg" width="250" height="150" align="right" />Data Science</p>
 		</div>
 	</body>
 </html>
