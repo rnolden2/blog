@@ -6,10 +6,10 @@ title: Sales | Engineering | Data Science
 
 
 
-<div id="cf">
-  <img class="top" src="/blog/public/power-of-the-handshake-.jpg" />
-  <img class="middle" src="/blog/public/electronics.jpg" />
-  <img class="bottom" src="/blog/public/datascience1.jpg" />
+<div id="cf4a" class="shadow">
+  <img src="/blog/public/power-of-the-handshake-.jpg" />
+  <img src="/blog/public/electronics.jpg" />
+  <img src="/blog/public/datascience1.jpg" />
 </div>
 
 
