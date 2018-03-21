@@ -573,7 +573,7 @@ a.pagination-item:hover {
   margin:0 auto;
 }
 
-#cf img.2 {
+#cf img {
   position:absolute;
   left:0;
   -webkit-transition: opacity 1s ease-in-out;
@@ -582,13 +582,6 @@ a.pagination-item:hover {
   transition: opacity 1s ease-in-out;
 }
 
-#cf img.3 {
-  position:absolute;
-  left:0;
-  -webkit-transition: opacity 1s ease-in-out;
-  -moz-transition: opacity 1s ease-in-out;
-  -o-transition: opacity 1s ease-in-out;
-  transition: opacity 1s ease-in-out;
 }
 
 @keyframes cf4FadeInOut {
@@ -606,7 +599,7 @@ opacity:0;
 }
 }
 
-#cf img.1 {
+/*#cf img.1 {
   animation-delay: 4s;
 }
 #cf img.2 {
@@ -614,9 +607,9 @@ opacity:0;
 }
 #cf img.3 {
   animation-delay: 0s;
-}
+}*/
 
-#cf img {
+#cf img.1 {
 animation-name: cf4FadeInOut;
 animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
