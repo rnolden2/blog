@@ -573,7 +573,7 @@ a.pagination-item:hover {
   margin:0 auto;
 }
 
-#cf img {
+#cf img.2 {
   position:absolute;
   left:0;
   -webkit-transition: opacity 1s ease-in-out;
@@ -582,7 +582,7 @@ a.pagination-item:hover {
   transition: opacity 1s ease-in-out;
 }
 
-#cf img {
+#cf img.3 {
   position:absolute;
   left:0;
   -webkit-transition: opacity 1s ease-in-out;
@@ -616,7 +616,7 @@ opacity:0;
   animation-delay: 0s;
 }
 
-#cf img.1 {
+#cf img {
 animation-name: cf4FadeInOut;
 animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
