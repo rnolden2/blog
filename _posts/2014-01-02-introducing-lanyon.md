@@ -2,7 +2,7 @@
 layout: post
 title: Sales | Engineering | Data Science
 ---
-![Test](/blog/public/power-of-the-handshake-.jpg)[Test](/blog/public/electronics.jpg)[Test](/blog/public/datascience1.jpg)
+![Sales](/blog/public/power-of-the-handshake-.jpg)![Eng](/blog/public/electronics.jpg)![DS](/blog/public/datascience1.jpg)
 ### About Me
 
 Currently a professional sales engineer experienced in project management whose main focus is to ensure premier customer satisfaction. I service the aerospace industry, both commercial and defense and utilize Data Science to tackle industry related business problems. I'm a self-starter always eager to learn new skills. 
