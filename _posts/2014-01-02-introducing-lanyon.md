@@ -12,7 +12,6 @@ title: Sales | Engineering | Data Science
       <p><img src="/blog/public/electronics.jpg" width="250" height="150" align="center" /></p>	 
       <hr />
       <p><img src="/blog/public/datascience1.jpg" width="250" height="150" align="right" /></p> 
-      <hr />
 		</div>
 	</body>
 </html>
