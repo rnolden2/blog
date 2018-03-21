@@ -609,4 +609,10 @@ a.pagination-item:hover {
 #cf img:nth-of-type(3) {
   animation-delay: 0s;
 }
-
+#cf img.top {
+animation-name: cf3FadeInOut;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+animation-duration: 10s;
+animation-direction: alternate;
+}
