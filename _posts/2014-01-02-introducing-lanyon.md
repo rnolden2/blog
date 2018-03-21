@@ -3,9 +3,9 @@ layout: post
 title: Sales | Engineering | Data Science
 ---
 ![Sales](/blog/public/power-of-the-handshake-.jpg)![Eng](/blog/public/electronics.jpg)![DS](/blog/public/datascience1.jpg)
-<img align="left" width="100" height="100" src="/blog/public/power-of-the-handshake-.jpg">
-<img align="center" width="100" height="100" src="/blog/public/electronics.jpg">
-<img align="right" width="100" height="100" src="/blog/public/datascience1.jpg">
+[comment]: <>(<img align="left" width="100" height="100" src="/blog/public/power-of-the-handshake-.jpg">)
+[comment]: <>(<img align="center" width="100" height="100" src="/blog/public/electronics.jpg">)
+[comment]: <>(<img align="right" width="100" height="100" src="/blog/public/datascience1.jpg">)
 
 <html>
 	<head>
