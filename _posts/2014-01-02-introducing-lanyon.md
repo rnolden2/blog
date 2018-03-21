@@ -12,8 +12,8 @@ title: Sales | Engineering | Data Science
 		<title>Aligning Images Horizontally</title>
 	</head>
 	<body>
-		<div style="width:550">
-			<p><img src="/blog/public/power-of-the-handshake-.jpg" width="150" height="150" align="left" />Sales</p>			<hr />			<p><img src="/blog/public/electronics.jpg" width="150" height="150" align="center" />Engineering</p>	      <hr />			<p><img src="/blog/public/datascience1.jpg" width="150" height="150" align="right" />Engineering</p>
+		<div style="width:850">
+			<p><img src="/blog/public/power-of-the-handshake-.jpg" width="250" height="150" align="left" />Sales</p>			<hr />			<p><img src="/blog/public/electronics.jpg" width="250" height="150" align="center" />Engineering</p>	      <hr />			<p><img src="/blog/public/datascience1.jpg" width="250" height="150" align="right" />Engineering</p>
 		</div>
 	</body>
 </html>
