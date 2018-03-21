@@ -29,7 +29,7 @@ function transitionOut (source, animation) {
 function nextImage () {
   // You probably want to instantiate some image array using your images folder.
   if(!is_animating) {
-    var images = ['1.jpg', '2.jpg', '3.jpg'];
+    var images = ['power-of-the-handshake-.jpg', 'electronics.jpg', 'datascience1.jpg'];
     for( var i = 0; i < images.length; i++ ) {
       if( ( path + images[i] ) == current ) {
         // Transition the image out and new one in.
@@ -44,10 +44,10 @@ window.onload = function() {
   // Get the canvas and context. They will be global.
   canvas = document.getElementById("frame");
   context = canvas.getContext("2d");
-  path = './images/';
+  path = '/blog/public/';
   
   // Load the initial image
-  loadImage( path + '1.jpg' );
+  loadImage( path + 'power-of-the-handshake-.jpg' );
 
   // Add click event listener on the canvas
   canvas.addEventListener("click", nextImage, false);   
