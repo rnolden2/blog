@@ -599,17 +599,7 @@ opacity:0;
 }
 }
 
-/*#cf img.1 {
-  animation-delay: 4s;
-}
-#cf img.2 {
-  animation-delay: 2s;
-}
-#cf img.3 {
-  animation-delay: 0s;
-}*/
-
-#cf img.2 {
+#cf img.top {
 animation-name: cf4FadeInOut;
 animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
