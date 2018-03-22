@@ -6,7 +6,6 @@ title: Sales | Engineering | Data Science
   <img src="/blog/public/power-of-the-handshake-.jpg" />
   <img src="/blog/public/electronics.jpg" />
   <img src="/blog/public/datascience1.jpg" />
-  <img src="/blog/public/power-of-the-handshake-.jpg" />
 </div>
 
 ### About Me
