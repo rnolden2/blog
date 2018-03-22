@@ -506,7 +506,7 @@ animation-direction: alternate;
   }
 }
 
-@-o-keyframes cf4FadeInOut {
+/*@-o-keyframes cf4FadeInOut {
   0% {
     opacity: 1;
   }
@@ -523,7 +523,7 @@ animation-direction: alternate;
     opacity: 1;
   }
 }
-
+*/
 @keyframes cf4FadeInOut {
   0% {
     opacity: 1;
