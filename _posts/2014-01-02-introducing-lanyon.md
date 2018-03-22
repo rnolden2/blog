@@ -7,8 +7,8 @@ title: Sales | Engineering | Data Science
 
 
 <div id="cf" >
-  <img class="1" src="/blog/public/power-of-the-handshake-.jpg" />
-  <img class="2" src="/blog/public/electronics.jpg" />
+  <img class="bottom" src="/blog/public/power-of-the-handshake-.jpg" />
+  <img class="top" src="/blog/public/electronics.jpg" />
 </div>
 
 
