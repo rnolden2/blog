@@ -568,8 +568,8 @@ a.pagination-item:hover {
 
 #cf {
   position:relative;
-  height:281px;
-  width:450px;
+  height:160px;
+  width:320px;
   margin:0 auto;
 }
 
@@ -609,7 +609,7 @@ opacity:0;
   animation-delay: 0s;
 }*/
 
-#cf img.1 {
+#cf img.2 {
 animation-name: cf4FadeInOut;
 animation-timing-function: ease-in-out;
 animation-iteration-count: infinite;
