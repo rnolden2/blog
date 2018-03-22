@@ -468,3 +468,34 @@ animation-iteration-count: infinite;
 animation-duration: 10s;
 animation-direction: alternate;
 }
+
+@keyframes cf4FadeInOut {
+  0% {
+    opacity:1;
+  }
+  17% {
+    opacity:1;
+  }
+  25% {
+    opacity:0;
+  }
+  92% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+#cf4a img.1 {
+  animation-delay: 6s;
+}
+#cf4a img.2 {
+  animation-delay: 4s;
+}
+#cf4a img.3 {
+  animation-delay: 2s;
+}
+#cf4a img.4 {
+  animation-delay: 0;
+}
