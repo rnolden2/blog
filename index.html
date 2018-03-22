@@ -12,7 +12,8 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% post.date | date_to_string %}
+    <span class="post-date">{{ site.time | date: '%Y' }}</span>
 
     {{ post.content }}
   </div>
