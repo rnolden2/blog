@@ -524,7 +524,7 @@ animation-direction: alternate;
   }
 }
 
-@keyframes cf4FadeInOut {
+/*@keyframes cf4FadeInOut {
   0% {
     opacity: 1;
   }
@@ -541,7 +541,7 @@ animation-direction: alternate;
     opacity: 1;
   }
 }
-
+*/
 #cf4a {
   position: relative;
   height: 281px;
@@ -599,5 +599,5 @@ animation-direction: alternate;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay: 0s;
-  animation-delay: 0s;
+  /*animation-delay: 0s;*/
 }
