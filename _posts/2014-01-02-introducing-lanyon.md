@@ -2,20 +2,10 @@
 layout: post
 title: Sales | Engineering | Data Science
 ---
-![Sales](/blog/public/power-of-the-handshake-.jpg)![Eng](/blog/public/electronics.jpg)![DS](/blog/public/datascience1.jpg)
-
-
-
-<div id="cf" >
-  <img class="bottom" src="/blog/public/power-of-the-handshake-.jpg" />
-  <img class="top" src="/blog/public/electronics.jpg" />
-</div>
-
 <div id="cf4a" class="shadow">
   <img src="/blog/public/power-of-the-handshake-.jpg" />
   <img src="/blog/public/electronics.jpg" />
   <img src="/blog/public/datascience1.jpg" />
-  <img src="/blog/public/power-of-the-handshake-.jpg" />
 </div>
 
 ### About Me
