@@ -589,10 +589,10 @@ animation-direction: alternate;
 }
     
 #cf4a img:nth-of-type(3) {
-  -webkit-animation-delay: 3;
-  -moz-animation-delay: 3;
-  -o-animation-delay: 3;
-  animation-delay: 3;
+  -webkit-animation-delay: 3s;
+  -moz-animation-delay: 3s;
+  -o-animation-delay: 3s;
+  animation-delay: 3s;
 }
 
 #cf4a img:nth-of-type(4) {
