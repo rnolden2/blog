@@ -8,13 +8,17 @@ title: Sales | Engineering | Data Science
   <img src="/blog/public/datascience1.jpg" />
   <img src="/blog/public/robotics.jpg" />
 </div>
-<div id="icons" class = "imgContainer">
+<div id="icons">
+<div class = "imgContainer">
 <a href="https://www.linkedin.com/in/randy-nolden-86096323/">
   <img src="/blog/public/square-linkedin.png" alt="LinkedIn Icon">
 </a>
+</div>  
+<div class = "imgContainer">  
 <a href="mailto:rnolden3@gmail.com">
   <img src="/blog/public/email_icon1.jpg" alt="Email Icon">
 </a>
+</div>  
 </div>
 ### About Me
 
