@@ -8,7 +8,7 @@ title: Sales | Engineering | Data Science
   <img src="/blog/public/datascience1.jpg" />
   <img src="/blog/public/robotics.jpg" />
 </div>
-<div id="icons">
+<div id="icons" style = "padding:20px">
 <a href="https://www.linkedin.com/in/randy-nolden-86096323/">
   <img src="/blog/public/square-linkedin.png" alt="LinkedIn Icon">
 </a>
