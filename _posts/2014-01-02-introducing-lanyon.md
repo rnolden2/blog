@@ -7,6 +7,7 @@ title: Sales | Engineering | Data Science
   <img src="/blog/public/electronics.jpg" />
   <img src="/blog/public/datascience1.jpg" />
   <img src="/blog/public/robotics.jpg" />
+  [LinkedIn](https://www.linkedin.com/in/randy-nolden-86096323/) <a aria-label="Send email" href="mailto:rnolden3@gmail.com">Email</a>
 </div>
 
 ### About Me
