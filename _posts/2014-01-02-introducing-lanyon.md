@@ -43,7 +43,7 @@ Listed below are a few business-driven projects I have worked on.
 In addition to real-world projects here are a few training projects I have completed. 
 
 * Product Recommendation System
-* <A HREF="page.html">Device Failures</A>
+* <a href="/blog/_layouts/page.html">Device Failures</a>
 * Twitter Sentiment
 * Advance Housing Prices
 
