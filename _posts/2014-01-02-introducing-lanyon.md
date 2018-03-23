@@ -32,13 +32,15 @@ Currently a professional sales engineer experienced in project management whose 
 ## Projects
 ### Industry-related Projects
 
+Listed below are a few business-driven projects I have worked on.
+
 * Price Prediction
 * Customer Clustering
 * Scheduling Assest
 
 ### Training Projects
 
-In addition to real-world projects I have worked on here are a few training projects I have completed. 
+In addition to real-world projects here are a few training projects I have completed. 
 
 * Product Recommendation System
 * Device Failures
