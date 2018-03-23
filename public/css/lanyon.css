@@ -565,3 +565,6 @@ a.pagination-item:hover {
 
 
 /* Fade in and out */
+.imgContainer{
+    float:left;
+}
