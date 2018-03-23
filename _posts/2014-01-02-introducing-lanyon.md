@@ -43,7 +43,7 @@ Listed below are a few business-driven projects I have worked on.
 In addition to real-world projects here are a few training projects I have completed. 
 
 * Product Recommendation System
-* Device Failures
+* <a href= "{{ site.baseurl }}/_layout/page.html>Device Failures</a>
 * Twitter Sentiment
 * Advance Housing Prices
 
