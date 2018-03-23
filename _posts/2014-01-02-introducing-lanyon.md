@@ -44,7 +44,7 @@ In addition to real-world projects here are a few training projects I have compl
 
 * Product Recommendation System
 * <a href="/_layouts/page.html">Device Failures</a>
-* [Twitter Sentiment]({{ "/_layouts/page.html" | relative_url }})
+* [Twitter Sentiment]{{ "/_layouts/page.html" | relative_url }}
 * Advance Housing Prices
 
 
