@@ -607,5 +607,5 @@ animation-direction: alternate;
     
 }
 #icons {
-  text-align:center;
+  vertical-align: middle;
 }
