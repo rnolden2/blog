@@ -8,7 +8,7 @@ title:               World of Data
 tagline:             'Randy Nolden'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
-baseurl:             '/blog'
+baseurl:             '/blog/'
 paginate:            5
 
 # About/contact
