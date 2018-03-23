@@ -44,7 +44,7 @@ In addition to real-world projects here are a few training projects I have compl
 
 * Product Recommendation System
 * <a href="/_layouts/page.html">Device Failures</a>
-* <a href="page.html">Device Failures</a>
+* <a href="/page.html">Device Failures</a>
 * Twitter Sentiment
 * Advance Housing Prices
 
