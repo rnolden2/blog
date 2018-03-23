@@ -604,4 +604,5 @@ animation-direction: alternate;
 
 .imgContainer{
     float:left;
+    text-align:center;
 }
