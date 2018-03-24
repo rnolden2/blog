@@ -47,13 +47,14 @@ In addition to real-world projects here are a few training projects I have compl
 * Twitter Sentiment
 * Advanced Housing Prices
 {% endcomment %}
+{% comment %}
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-
+{% endcomment %}
 
 <div class="container">
   <h2>Training Projects</h2>
@@ -92,7 +93,7 @@ In addition to real-world projects here are a few training projects I have compl
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Advanced Housing Prices</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Advanced Housing Prices</a>
         </h4>
       </div>
       <div id="collapse4" class="panel-collapse collapse">
