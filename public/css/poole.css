@@ -629,7 +629,7 @@ animation-direction: alternate;
 }
 #f1_container:hover #f1_card {
   transform: rotateY(180deg);
-  box-shadow: 5px 5px 5px #aaa;
+  box-shadow: -5px 5px 5px #aaa;
 }
 .face {
   position: absolute;
