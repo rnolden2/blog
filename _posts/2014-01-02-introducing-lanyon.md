@@ -43,7 +43,7 @@ Listed below are a few business-driven <a href="#project_content">projects</a> I
 In addition to real-world projects here are a few training projects I have completed.
 
 * Product Recommendation System
-* <a href= "{{ site.baseurl }}page.md">Device Failures</a>
+* <a href= "{{ site.baseurl }}pages.html">Device Failures</a>
 * <a href= "{{ site.baseurl }}/">Twitter Sentiment</a>
 * Advance Housing Prices
 
