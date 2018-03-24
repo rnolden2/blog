@@ -25,14 +25,14 @@ title: Sales | Engineering | Data Science
 <br>
 ### About Me
 
-Currently a professional sales engineer experienced in project management whose main focus is to ensure premier customer satisfaction. I service the aerospace industry, both commercial and defense and utilize Data Science to tackle industry related business problems. I'm a self-starter always eager to learn new skills. 
+Currently a professional sales engineer experienced in project management whose main focus is to ensure premier customer satisfaction. I service the aerospace industry, both commercial and defense and utilize Data Science to tackle industry related business problems. I'm a self-starter always eager to learn new skills.
 
 <br>
-<a name="projects"></a>
+
 ## Projects
 ### Industry-related Projects
 
-Listed below are a few business-driven projects I have worked on.
+Listed below are a few business-driven <a href="#project_content">projects</a> I have worked on.
 
 * Price Prediction
 * Customer Clustering
@@ -40,7 +40,7 @@ Listed below are a few business-driven projects I have worked on.
 
 ### Training Projects
 
-In addition to real-world projects here are a few training projects I have completed. 
+In addition to real-world projects here are a few training projects I have completed.
 
 * Product Recommendation System
 * <a href= "{{ site.baseurl }}page.md">Device Failures</a>
