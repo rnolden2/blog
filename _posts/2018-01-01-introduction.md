@@ -53,9 +53,9 @@ In addition to real-world projects here are a few training projects I have compl
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body>
 
-<div class="container_collapses">
+
+<div class="container">
   <h2>Training Projects</h2>
   <p>In addition to <strong> real-world </strong> projects here are a few training projects I have completed.</p>
   <div class="panel-group" id="accordion">
@@ -95,14 +95,13 @@ In addition to real-world projects here are a few training projects I have compl
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Advanced Housing Prices</a>
         </h4>
       </div>
-      <div id="collapse4" class="panel-collapse collapse in">
+      <div id="collapse4" class="panel-collapse collapse">
         <div class="panel-body">This project is a Kaggle competition in which the objective is to predict house prices using advance machine learning techniques.</div>
       </div>
     </div>
   </div>
 </div>
 
-</body>
 
 ### Skillset
 
