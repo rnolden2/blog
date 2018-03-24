@@ -2,6 +2,13 @@
 layout: post
 title: Sales | Engineering | Data Science
 ---
+<head>
+  <meta name="viewport" content="width=auto, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
 <div id="cf4a" class="shadow">
   <img src="/blog/public/power-of-the-handshake-.jpg" />
   <img src="/blog/public/electronics.jpg" />
@@ -48,14 +55,6 @@ In addition to real-world projects here are a few training projects I have compl
 * Advanced Housing Prices
 {% endcomment %}
 
-<head>
-{% comment %}
-  <meta name="viewport" content="width=auto, initial-scale=1">
-{% endcomment %}
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-</head>
 
 
 <div class="container">
