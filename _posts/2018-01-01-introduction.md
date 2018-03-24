@@ -32,7 +32,7 @@ Currently a professional sales engineer experienced in project management whose 
 ## Projects
 ### Industry-related Projects
 
-Listed below are a few business-driven <a href="#project_content">projects</a> I have worked on.
+Listed below are a few business-driven <a href= "{{ site.baseurl }}pages.html">projects</a> I have worked on.
 
 * Price Prediction
 * Customer Clustering
