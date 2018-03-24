@@ -58,7 +58,7 @@ In addition to real-world projects here are a few training projects I have compl
 <html>
 
 
-<div class="container">
+<div class="f1_container">
   <h2>Training Projects</h2>
   <p>In addition to <strong> real-world </strong> projects here are a few training projects I have completed.</p>
   <div class="panel-group" id="accordion">
