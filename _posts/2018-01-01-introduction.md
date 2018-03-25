@@ -50,13 +50,13 @@ In addition to real-world projects here are a few training projects I have compl
 * Advanced Housing Prices
 {% endcomment %}
 <html>
-
+{% comment %}
 <head>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-
+{% endcomment %}
 <div class="container">
   <h2>Training Projects</h2>
   <p>In addition to <strong> real-world </strong> projects here are a few training projects I have completed.</p>
