@@ -50,13 +50,14 @@ In addition to real-world projects here are a few training projects I have compl
 * Advanced Housing Prices
 {% endcomment %}
 <html>
-
+{% comment %}
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
+{% endcomment %}
 
 <div class="container">
   <h2>Training Projects</h2>
@@ -65,11 +66,11 @@ In addition to real-world projects here are a few training projects I have compl
   <div id="accordion">
     <div class="card">
       <div class="card-header" id="headingOne">
-        <h5 class="mb-0">
+        <h3 class="mb-0">
           <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
             Product Recommendation System
           </button>
-        </h5>
+        </h3>
       </div>
 
       <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
@@ -80,11 +81,11 @@ In addition to real-world projects here are a few training projects I have compl
     </div>
     <div class="card">
       <div class="card-header" id="headingTwo">
-        <h5 class="mb-0">
+        <h3 class="mb-0">
           <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
             Device Failures
           </button>
-        </h5>
+        </h3>
       </div>
       <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
         <div class="card-body">
@@ -94,11 +95,11 @@ In addition to real-world projects here are a few training projects I have compl
     </div>
     <div class="card">
       <div class="card-header" id="headingThree">
-        <h5 class="mb-0">
+        <h3 class="mb-0">
           <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
             Twitter Sentiment
           </button>
-        </h5>
+        </h3>
       </div>
       <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
         <div class="card-body">
@@ -107,14 +108,14 @@ In addition to real-world projects here are a few training projects I have compl
       </div>
     </div>
     <div class="card">
-      <div class="card-header" id="headingTwo">
-        <h5 class="mb-0">
-          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      <div class="card-header" id="headingFour">
+        <h3 class="mb-0">
+          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseTwo">
             Advanced Housing Prices
           </button>
-        </h5>
+        </h3>
       </div>
-      <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
         <div class="card-body">
           This project is a Kaggle competition in which the objective is to predict house prices using advance machine learning techniques.
         </div>
