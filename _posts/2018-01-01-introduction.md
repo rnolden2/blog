@@ -2,13 +2,7 @@
 layout: post
 title: Sales | Engineering | Data Science
 ---
-<div>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-</head>
+
 
 <div id="cf4a" class="shadow">
   <img src="/blog/public/power-of-the-handshake-.jpg" />
@@ -57,6 +51,12 @@ In addition to real-world projects here are a few training projects I have compl
 {% endcomment %}
 <html>
 
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
 
 <div class="f1_container">
   <h2>Training Projects</h2>
@@ -109,4 +109,3 @@ In addition to real-world projects here are a few training projects I have compl
 ### Skillset
 
 Regression, Clustering, Decision Trees, Natural Language Processing, Neural Networks, Recommendation Systems
-</div>
