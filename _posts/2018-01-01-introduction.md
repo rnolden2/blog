@@ -50,18 +50,80 @@ In addition to real-world projects here are a few training projects I have compl
 * Advanced Housing Prices
 {% endcomment %}
 <html>
-
+{% comment %}
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-
+{% endcomment %}
 <div class="container">
   <h2>Training Projects</h2>
   <p>In addition to <strong> real-world </strong> projects here are a few training projects I have completed.</p>
-  <div class="panel-body" id="accordion">
+
+  <div id="accordion">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            Product Recommendation System
+          </button>
+        </h5>
+      </div>
+
+      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+        <div class="card-body">
+          The objective of this project was to help a company generate incremental sales by implementing a recommender system.
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingTwo">
+        <h5 class="mb-0">
+          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            Device Failures
+          </button>
+        </h5>
+      </div>
+      <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+        <div class="card-body">
+          The objective of this project was to predict the fault severity of a particular location.
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingThree">
+        <h5 class="mb-0">
+          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            Twitter Sentiment
+          </button>
+        </h5>
+      </div>
+      <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+        <div class="card-body">
+          This objective of this project was to collect tweets as data and performing sentiment analysis to determine whether the sentiment of the particular tweet is positive or negative.
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingTwo">
+        <h5 class="mb-0">
+          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            Advanced Housing Prices
+          </button>
+        </h5>
+      </div>
+      <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+        <div class="card-body">
+          This project is a Kaggle competition in which the objective is to predict house prices using advance machine learning techniques.
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% comment %}
+  <div class="panel-group" id="accordion">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
@@ -105,7 +167,7 @@ In addition to real-world projects here are a few training projects I have compl
   </div>
 </div>
 </html>
-
+{% endcomment %}
 ### Skillset
 
 Regression, Clustering, Decision Trees, Natural Language Processing, Neural Networks, Recommendation Systems
